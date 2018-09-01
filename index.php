@@ -1,6 +1,3 @@
 <?php
-
-echo "PRADIT WONGSAKUL";
-
-
+echo "Hello LINE BOT";
 ?>
